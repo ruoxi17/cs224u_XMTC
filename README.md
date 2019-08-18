@@ -1,5 +1,4 @@
-# cs224u_XMTC
-Extreme Multi-label Text Classification
+# Extreme Multi-label Text Classification
 
 ## Overview
 ### Embedding-based method
