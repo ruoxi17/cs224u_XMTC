@@ -30,7 +30,7 @@ This project is a python implementation of SLEEC and XML-CNN.
 - Network architecture
     - Word embedding inputs
     - Conv layers with different kernel-size
-        - Intuion: `kernel_size=2` looks 2 consecutive words
+        - Intuition: `kernel_size=2` looks 2 consecutive words
         - Different kernel-size generates multiple feature maps (analog to image color blobs, edges, etc.)
     - Dynamic max pooling
         - Key idea: since the length of documents are variant, the output volume of the previous conv layer cannot be connected to a dense layer. Dynamic pooling makes sure the consistent output shape and select the most important information.
