@@ -41,3 +41,7 @@ This project is a python implementation of SLEEC and XML-CNN.
         - Multi-class: `softmax`, `categorical cross entropy`
         - Multi-label: `sigmoid`, `binary entropy`
 - See [XML-CNN code](code/xml_cnn.py).
+
+## Reference
+[Bhatia, Kush, et al. "Sparse local embeddings for extreme multi-label classification." *Advances in neural information processing systems*. 2015.](https://papers.nips.cc/paper/5969-sparse-local-embeddings-for-extreme-multi-label-classification)
+[Liu, Jingzhou, et al. "Deep learning for extreme multi-label text classification." *Proceedings of the 40th International ACM SIGIR Conference on Research and Development in Information Retrieval*. ACM, 2017.](https://dl.acm.org/citation.cfm?id=3080834)
